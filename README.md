@@ -14,7 +14,7 @@
 ## Description
 **Simple_shell** Write a Simple UNIX command interpreter
 ## Purpose
- HEAD
+## Head
 =======
 DESCRIPTION
 Simple_shell Write a Simple UNIX command interpreter
@@ -228,9 +228,10 @@ $ cat test_ls_2 | ./hsh
 hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
-Bugs
+## Bugs
 At this time, there are no known bugs.
-Authors
-Sarafina Gathoni |  Douglas Ken
-License
-simple_shell is open source and free to download and use
+## Authors
+Sarafina Gathoni | [GitHub](https://github.com/SarahGathoni) | 
+Douglas Ken | [GitHub](https://github.com/dshikuta) |
+## License
+**simple_shell** is open source and free to download and use
