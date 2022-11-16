@@ -1,1 +1,1 @@
-C - Simple Shell group Project
+simple-shell
