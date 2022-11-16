@@ -1,6 +1,6 @@
 simple-shell
 
-Description
+DESCRIPTION
 Simple_shell Write a Simple UNIX command interpreter
 
 Purpose
